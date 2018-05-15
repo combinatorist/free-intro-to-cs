@@ -14,6 +14,7 @@ There are other specialty languages better suited for certain purposes, but that
   - Or at very least, do their [python setup][2].
 - If you like book learning, read the one recommended by the inventor of Python:
   - ["Introduction to Computer Science Using Python: A Computational Problem-Solving Focus"][3]
+  - In case it's your birthday, I may have already bought you a hard copy. :wink:
 - Along the way, you'll also start learning the command line.
   - This is particularly useful if you're on Mac or Linux (Windows is a different ballgame).
 
@@ -28,7 +29,7 @@ Find something you want to:
 - automate (time tracker?)
 - share (website?)
 - play (game?)
-- emulate (someone else's project)
+- emulate (someone else's project?)
 
 You will almost certainly not know enough when you begin.
 You may even need or want to find and use an appropriate framework / library to extend Python.
