@@ -9,7 +9,7 @@ And remember:
 Python is a very good first language because it's designed to force good, readable code.
 It is also a modern, general purpose language used for literally anything.
 There are other specialty languages better suited for certain purposes, but that comes later.
-- First, for inspiration, read the [Zen of Python][0]
+- First, for inspiration, read the [Zen of Python][0].
 - Then, do Google's short [tutorial][1].
   - Or at very least, do their [python setup][2].
 - If you like book learning, read the one recommended by the inventor of Python:
