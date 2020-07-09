@@ -16,7 +16,7 @@ There are other specialty languages better suited for certain purposes, but that
   - ["Introduction to Computer Science Using Python: A Computational Problem-Solving Focus"][3]
   - In case it's your birthday, I may have already bought you a hard copy. :wink:
 - Along the way, you'll also start learning the command line.
-  - This is particularly useful if you're on Mac or Linux (Windows is a different).
+  - This is particularly useful if you're on Mac or Linux (can't speak for Windows).
 
 # Solve Small Puzzles "for Others"
 It's important to work on some small problems to learn what a langauge can do (without drowning in new info).
