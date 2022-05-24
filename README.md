@@ -3,7 +3,7 @@ The short answer is you never learn all of it.
 OTOH, you've probably already done a tiny bit of programming on your thermostat.
 But, if you want to learn more, I'd recommend the following steps to get as deep as you like.
 And remember:
-> It's not as much about knowing the exact specifications of language as how to articulate and solve problems.
+> It's not as much about knowing the exact specifications of language as how to articulate, research, and solve problems.
 
 # Learn a Language (Python)
 Python is a very good first language because it's designed to force good, readable code.
